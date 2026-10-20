@@ -1,4 +1,4 @@
-#Objective
+# Objective
 
 The objective of this project is to develop foundational network traffic analysis skills through hands-on exercises in the TryHackMe SOC Level 1 learning pathway. The project focuses on using Wireshark to capture, filter, and analyze network packets to better understand network protocols, communication patterns, and potentially suspicious activity.
 
@@ -27,7 +27,7 @@ Skills Learned
 
     Documenting investigation findings and explaining the evidence supporting conclusions.
 
-#Tools Used
+# Tools Used
 
     Wireshark – Primary tool for packet capture analysis, protocol inspection, filtering, and network troubleshooting.
 
@@ -37,7 +37,7 @@ Skills Learned
 
     PCAP files – Packet capture files used to practice inspecting and analyzing network communications.
 
-#Steps
+# Steps
 
 This section will document the exercises completed, techniques practiced, and findings from the network traffic analysis learning pathway.
 
