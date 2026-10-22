@@ -35,7 +35,6 @@ Skills Learned
 
     TryHackMe SOC Level 1 – Guided learning pathway providing network traffic analysis exercises and practical investigation scenarios.
 
-    PCAP files – Packet capture files used to practice inspecting and analyzing network communications.
 
 # Steps
 
